@@ -1,0 +1,23 @@
+$primary: #f8c3d1;
+$primary-dark: #ea95a8;
+$dark: #231f20;
+$light: #ffffff;
+
+$verde-claro: #8bdfb3;
+$verde-cana: #5fbcad;
+$amarelo: #ebb940;
+$roxo: #764384;
+
+:root {
+  --primary: #{$primary};
+  --primary-dark: #{$primary-dark};
+  --dark: #{$dark};
+  --light: #{$light};
+
+  --verde-claro: #{$verde-claro};
+  --verde-cana: #{$verde-cana};
+  --amarelo: #{$amarelo};
+  --laranja: #{$laranja};
+  --azul: #{$azul};
+  --roxo: #{$roxo};
+}

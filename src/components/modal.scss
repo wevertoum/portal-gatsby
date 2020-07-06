@@ -1,0 +1,15 @@
+.modal-main {
+  position: fixed;
+  z-index: 10;
+  left: 0;
+  top: 0;
+  display: flex;
+  width: 100vw;
+  height: 100vw;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  .svg-anim {
+    margin: auto;
+    transform: translateY(50%, -50px);
+  }
+}
